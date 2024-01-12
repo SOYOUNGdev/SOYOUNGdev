@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-%23382923?logo=DBeaver&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=HTML5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-%236DB33F?logo=Spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?logo=Git&logoColor=white">
+
+
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=yellow">
+
+
 
