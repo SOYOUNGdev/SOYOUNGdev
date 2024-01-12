@@ -1,4 +1,6 @@
-### Hi👋
+### 😄 About Me
+----------------------------------------------------------
+매일 발전하는 예비 개발자 임소영 입니다.
 
 <!--
 **SOYOUNGdev/SOYOUNGdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tech
+----------------------------------------------------------------
+
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E" style="height:30px;">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23F7DF1E" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-%23382923?logo=DBeaver&logoColor=white" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=HTML5&logoColor=white" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=CSS3&logoColor=white" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/SPRING-%236DB33F?logo=Spring&logoColor=white" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white" style="height:30px;">
 
 
@@ -22,7 +27,8 @@ Here are some ideas to get you started:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow" style="height:30px;">
 
-
+### Git stats
+---------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYOUNGdev&theme=dark&show_icons=true)
 
 
