@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=yellow" style="height:30px;">
 
-⚡Git stats
----------------------------------------------------------------------
+### ⚡Git stats
+------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYOUNGdev&theme=dark&show_icons=true)
 
 
