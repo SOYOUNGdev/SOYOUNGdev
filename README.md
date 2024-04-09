@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=6d9eeb&height=300&section=header&text=soyoung's%20git&fontSize=90&fontColor=FFFFFF" />
+
+
 ### <!--<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f647-1f3fc-200d-2640-fe0f.svg" style="height:30px;">-->🙇‍♀️ About Me
 ----------------------------------------------------------
 매일 발전하는 예비 개발자 임소영 입니다.
