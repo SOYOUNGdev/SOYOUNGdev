@@ -35,6 +35,4 @@ Here are some ideas to get you started:
 
 ### ⚡Git stats
 ------------------------------------------------------------
-[![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYOUNGdev)](https://github.com/SOYOUNGdev/github-readme-stats)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=SOYOUNGdev&show_icons=true&count_private=true"/>
