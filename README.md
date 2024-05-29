@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 ### ⚡Git stats
 ------------------------------------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYOUNGdev&theme=dark&show_icons=true)
-
+[![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOYOUNGdev)](https://github.com/SOYOUNGdev/github-readme-stats)
 
 
