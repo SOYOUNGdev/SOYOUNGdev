@@ -18,9 +18,11 @@ contact : soyoungim.sy@gmail.com
     
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-%23382923?logo=DBeaver&logoColor=white" style="height:30px;"> <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white" style="height:30px;"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" style="height:30px;"/>  <img src="https://img.shields.io/badge/ORACLE-F80000?logo=oracle&logoColor=white" style="height:30px;"/>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white" style="height:30px;"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" style="height:30px;"/> <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white" style="height:30px;">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" style="height:30px;"/> <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white" style="height:30px;"> <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?logo=slack&logoColor=white" style="height:30px;"> 
 
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00?logo=tensorflow&logoColor=white" style="height:30px;"> <img src="https://img.shields.io/badge/Keras-%23D00000?logo=keras&logoColor=white" style="height:30px;"> <img src="https://img.shields.io/badge/Pytorch-%23EE4C2C?logo=pytorch&logoColor=white" style="height:30px;">
+
+<img src="https://img.shields.io/badge/Amazon AWS-%23232F3E?logo=amazonwebservices&logoColor=white" style="height:30px;"/> <img src="https://img.shields.io/badge/Gunicorn-%23499848?logo=gunicorn&logoColor=white" style="height:30px;"/> <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white" style="height:30px;"/> 
 
 ### ⚡Git stats
 ------------------------------------------------------------
