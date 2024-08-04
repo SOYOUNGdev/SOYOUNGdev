@@ -5,8 +5,8 @@
 ----------------------------------------------------------
 매일 성장하는 예비 개발자 임소영 입니다.
 
-contact : soyoungim.sy@gmail.com
-
+contact : soyoungim.sy@gmail.com  
+notion  : <a href="https://www.notion.so/7a1f494713cc44a194efb15dbc06a0bf">soyoung's notion</a> 
 
 
 
