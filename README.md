@@ -3,7 +3,7 @@
 
 ### <!--<img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f647-1f3fc-200d-2640-fe0f.svg" style="height:30px;">-->🙇‍♀️ About Me
 ----------------------------------------------------------
-매일 성장하는 예비 개발자 임소영 입니다.
+매일 성장하는 AI 개발자 임소영 입니다.
 
 contact : soyoungim.sy@gmail.com  
 notion  : <a href="https://www.notion.so/7a1f494713cc44a194efb15dbc06a0bf">soyoung's notion</a> 
